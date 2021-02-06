@@ -1,2 +1,4 @@
 # git-curso
-Estamos aprendiendo a utilizar git.
+Aprendiendo para ser mejores programadores..
+# git-para todos..
+Excelente curso de git
