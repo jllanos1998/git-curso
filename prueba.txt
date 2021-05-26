@@ -7,4 +7,5 @@ git status -s (??: Los archivos no están rastreados -
 		M: Los modificados )
 
 git diff (Para ver la diferencia de los archivos anteriores)
+git chekout 
 
