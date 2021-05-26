@@ -1,0 +1,10 @@
+git init (Para iniciar un proyecto en GIT)
+git status (Para visualizar el estados de los archivos)
+git add . g(Para pasar habilitar los cambios de los archivos)
+git commit -m (Para confirmar los cambios realidos y dejar un mensaje del cambio)
+git status -s (??: Los archivos no están rastreados - 
+		A: Los están preparados
+		M: Los modificados )
+
+git diff (Para ver la diferencia de los archivos anteriores)
+
