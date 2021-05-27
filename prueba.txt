@@ -9,3 +9,5 @@ git status -s (??: Los archivos no están rastreados -
 git diff (Para ver la diferencia de los archivos anteriores)
 git chekout (Para cambiar de rama)
 
+un cambio
+
