@@ -10,3 +10,13 @@ git diff (Para ver la diferencia de los archivos anteriores)
 git chekout (Para cambiar de rama)
 
 git commit -a (Es para saltarse el status y el commit)
+
+git rm \*txt (Elimina todos los documentos, poniendo el tipo de documento despues del "\")
+
+mv (es para cambiar el nombre del documento o archivo)ejm: mv archivoActual.txt archivoNuevo.txt
+
+git log (Es para poder verificar el historial de las confirmaciones del DIA)
+
+git log -p (muestra lo introducido en cada confirmación)
+
+git log -2 (Muestra las dos últimas confirmaciones)
