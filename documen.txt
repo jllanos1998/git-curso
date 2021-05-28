@@ -1,0 +1,34 @@
+git init (Para iniciar un proyecto en GIT)
+git status (Para visualizar el estados de los archivos)
+git add . g(Para pasar habilitar los cambios de los archivos)
+git commit -m (Para confirmar los cambios realidos y dejar un mensaje del cambio)
+git status -s (??: Los archivos no están rastreados - 
+		A: Los están preparados
+		M: Los modificados )
+
+git diff (Para ver la diferencia de los archivos anteriores)
+git chekout (Para cambiar de rama)
+
+git commit -a (Es para saltarse el status y el commit)
+
+git rm \*txt (Elimina todos los documentos, poniendo el tipo de documento despues del "\")
+
+mv (es para cambiar el nombre del documento o archivo)ejm: mv archivoActual.txt archivoNuevo.txt
+
+git log (Es para poder verificar el historial de las confirmaciones del DIA)
+
+git log -p (muestra lo introducido en cada confirmación)
+
+git log -2 (Muestra las dos últimas confirmaciones)
+
+git log --stat (muestra una estadistica de cada confirmación)
+
+git log --pretty (Permite modificar el formato de salida)
+
+git log oneline (imprime cada confirmación en una única línea)
+
+git log -<n>
+
+git log --author=nombre (Te permite filtrar por el autor de la confirmaciones)
+
+
