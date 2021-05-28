@@ -33,5 +33,7 @@
 
 *git checkout -- . (Regresa los archivo al utimo commit realizado en el proyecto o repositorio)
 
+*git config --global alias.nombre '(Codigo que se le dara un alias)';
+
 
 
